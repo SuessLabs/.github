@@ -2,6 +2,8 @@
 
 Welcome to Suess Labs, Inc.
 
+Check out the pinned projects; contributions are welcomed.
+
 <!--
 
 **Here are some ideas to get you started:**
