@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to Suess Labs, Inc.
+Welcome to [Suess Labs, Inc.](https://suesslabs.com)
 
-Check out the pinned projects; contributions are welcomed.
+Check out the pinned projects below, and [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia) which I also maintain.
 
 <!--
 
