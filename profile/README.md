@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to [Suess Labs, Inc.](https://suesslabs.com)
+Welcome to [Suess Labs, Inc.](https://suesslabs.com) consulting and skunkworks for Xeno Innovations, Inc! The project repositories are built enterprise ready and are used by Fortune 500 companies. We invite you to use our packages/applications for your projects, small business, and large organization alike.
 
 Check out the pinned projects below, and [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia) which I also maintain.
 
